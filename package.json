@@ -1,0 +1,12 @@
+{
+    "$schema": "https://www.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "",
+        "dev": ""
+    },
+    "dependencies": {
+        "playwright": "^1.58.2"
+    }
+}
